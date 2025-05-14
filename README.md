@@ -3,5 +3,5 @@
 ## Built with
 
 - HTML
-- SCSS
+- CSS
 - JavaScript
